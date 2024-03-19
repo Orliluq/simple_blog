@@ -1,1 +1,1 @@
-# simple_blog_Orli
+# simple_blog
