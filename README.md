@@ -1,6 +1,6 @@
-# simple_blog
+# simple_blog 👩‍💻
 
-## Cómo hacer un blog con Django desde 0
+## Cómo hacer un blog con Django desde 0 🚀
 
 La mejor forma de aprender es ir practicando mientras lo mezclas con teoría. La idea de esta lista de tutoriales es que aprendamos en detalle como hacer una aplicación web con Django desde 0. 
 ### Parte 1: Instalación
